@@ -1,6 +1,6 @@
 # Bits & Books — Checkpoint 1
 
-## 1. Entity Identification
+# 1. Entity Identification
 
 ### Book catalog
 
